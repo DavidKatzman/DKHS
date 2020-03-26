@@ -1,6 +1,7 @@
 ## Time Series Panel Data Project
-Team member: - Hua Shi  
-             - David Katzman 
+Team member: 
+- Hua Shi
+- David Katzman 
 ## Attribute Information:
 The data is from UCI. The endogenous variable is PM2.5 and  others are the exogenous variables (SO2,NO2,CO,O3,TEMP,PRES,DEWP	,RAIN,WSPM).
 
