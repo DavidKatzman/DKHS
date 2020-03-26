@@ -2,7 +2,7 @@
 Team member: 
 - Hua Shi
 - David Katzman 
-## Attribute Information:
+## Attribute Information
 The data is from UCI. The endogenous variable is PM2.5 and  others are the exogenous variables (SO2,NO2,CO,O3,TEMP,PRES,DEWP	,RAIN,WSPM).
 
 - PM2.5: PM2.5 concentration (ug/m^3) PM2.5 is a kind of PM10, they are inclusive relationships, PM2.5     generally accounts for about 70% of PM10.
