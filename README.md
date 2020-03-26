@@ -34,6 +34,7 @@ method source:https://www.machinelearningplus.com/time-series/time-series-analys
 ## Conclusion
  All exogenous variables affect PM2.5 at significant level 0.05.
  The LSTM model predicts very well.
- [prediction_vs_actual.png](prediction_vs_actual.png)
+ 
+ ![prediction_vs_actual.png](prediction_vs_actual.png)
  
  
