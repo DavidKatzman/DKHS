@@ -37,5 +37,6 @@ method source:https://www.machinelearningplus.com/time-series/time-series-analys
  The LSTM model predicts very well.
  
  ![prediction_vs_actual.png](prediction_vs_actual.png)
- 
+ ## Presentation
+ https://docs.google.com/presentation/d/1NNXJSYS2ibqs8D-aJng0CkixAEjXZw26gSRNp2Wawe8/edit?ts=5e7d1645#slide=id.p
  
