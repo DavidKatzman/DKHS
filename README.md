@@ -48,7 +48,7 @@ At night, colder air settles close to the ground due to the lack of sun, and sta
 ## Conclusion
 ### 
 - Based on RMSE  LSTM-RNN performed by far the best, but also provides the least information.
-!(LSTM_vs_Fixed_Effects.png)[LSTM_vs_Fixed_Effects.png]
+![LSTM_vs_Fixed_Effects.png](LSTM_vs_Fixed_Effects.png)
 ### 
 - LSTM prediction_vs_actual values
 ![prediction_vs_actual.png](prediction_vs_actual.png)
