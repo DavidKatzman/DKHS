@@ -26,6 +26,10 @@ The goal of this project is to predict PM2.5 for 12 different locations in Beiji
 ## Data Cleaning
 - For time series, it is not proper to replace missing values with the mean of the series. Backward Fill method is applied to fill out the missing data.
 method source:https://www.machinelearningplus.com/time-series/time-series-analysis-python/
+## EDA
+
+
+
 
 ## Models
 - Fixed Estimator 
