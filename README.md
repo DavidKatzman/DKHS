@@ -61,5 +61,4 @@ The goal of this project is to predict PM2.5 for 12 different locations in Beiji
 ![fixed_effects_models_result.png](fixed_effects_models_result.png)
 
  ## Presentation
- https://docs.google.com/presentation/d/1NNXJSYS2ibqs8D-aJng0CkixAEjXZw26gSRNp2Wawe8/edit?ts=5e7d1645#slide=id.p
- 
+ https://docs.google.com/presentation/d/1NNXJSYS2ibqs8D-aJng0CkixAEjXZw26gSRNp2Wawe8/edit?usp=sharing
